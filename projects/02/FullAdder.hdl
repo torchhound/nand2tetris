@@ -22,6 +22,6 @@ CHIP FullAdder {
 	//HalfAdder(a=v3,b=c,sum=sum, carry=carry);
 	
 	//HalfAdder(a=a,b=b,sum=v1, carry=v2); gets to line 8
-	//Xor(a=v1,b=v2,out=v3);
+	//Or(a=v1,b=v2,out=v3);
 	//HalfAdder(a=v3,b=c,sum=sum, carry=carry);
 }
